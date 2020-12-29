@@ -1,0 +1,10 @@
+C:\Users\sccde\source\repos\54_HW_Hospital\54_HW_Hospital\bin\Debug\54_HW_Hospital.exe.config
+C:\Users\sccde\source\repos\54_HW_Hospital\54_HW_Hospital\bin\Debug\54_HW_Hospital.exe
+C:\Users\sccde\source\repos\54_HW_Hospital\54_HW_Hospital\bin\Debug\54_HW_Hospital.pdb
+C:\Users\sccde\source\repos\54_HW_Hospital\54_HW_Hospital\obj\Debug\54_HW_Hospital.csprojAssemblyReference.cache
+C:\Users\sccde\source\repos\54_HW_Hospital\54_HW_Hospital\obj\Debug\_54_HW_Hospital.Form1.resources
+C:\Users\sccde\source\repos\54_HW_Hospital\54_HW_Hospital\obj\Debug\_54_HW_Hospital.Properties.Resources.resources
+C:\Users\sccde\source\repos\54_HW_Hospital\54_HW_Hospital\obj\Debug\54_HW_Hospital.csproj.GenerateResource.cache
+C:\Users\sccde\source\repos\54_HW_Hospital\54_HW_Hospital\obj\Debug\54_HW_Hospital.csproj.CoreCompileInputs.cache
+C:\Users\sccde\source\repos\54_HW_Hospital\54_HW_Hospital\obj\Debug\54_HW_Hospital.exe
+C:\Users\sccde\source\repos\54_HW_Hospital\54_HW_Hospital\obj\Debug\54_HW_Hospital.pdb
