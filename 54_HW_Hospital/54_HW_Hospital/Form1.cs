@@ -106,7 +106,7 @@ namespace _54_HW_Hospital
             
             if (txtTcKimlikNo.Text == "" || txtAd.Text == "" || txtSoyad.Text == "" || cbxBrans2.SelectedIndex == -1 || cbxDoktor.SelectedIndex == -1 || dateTimePicker1.Value < DateTime.Now)
             {
-                MessageBox.Show("Randevu bilgilerinin hepsini doldurunuz ve bugünden önce bir tarih seçtiğinize emin olunuz");
+                MessageBox.Show("Randevu bilgilerinin hepsini doldurunuz ve bugünden önce bir tarih seçmediğinize emin olunuz");
             }
             else
             {               
